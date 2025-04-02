@@ -1,4 +1,4 @@
-# Lesson 55 project
+# Lesson 45 project
 
 This is a simple React application built with Vite, TypeScript, and Redux Toolkit. It serves as a test project to learn a basic setup with state management and CSS styling.
 
