@@ -18,6 +18,7 @@ Ensure you have the following installed:
 
 # Project Structure
 
+```
 lesson45/
 ├── dist/ # Production build output
 ├── src/ # Source code
@@ -32,6 +33,7 @@ lesson45/
 ├── tsconfig.node.json# TypeScript config for Node.js
 ├── vite.config.ts # Vite configuration
 └── package.json # Project dependencies and scripts
+```
 
 ## Scripts
 
